@@ -34,14 +34,14 @@ body {
     width: 100%;
     background: var(--surface);
     border-bottom: 2px solid var(--accent);
-    padding: 0 32px;
-    height: 64px;
+    padding: 20px 32px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .topbar img {
-    height: 32px;
+    height: 180px;
 }
 
 .quiz-container {
