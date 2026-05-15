@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geo Quiz</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Topbar -->
+    <div class="topbar">
+        <img src="title.png" alt="Geo Quiz">
+    </div>
+
+    <!-- Main -->
+    <div class="main">
+        <button>Guess the Flag</button>
+        <button>Guess the Landmark</button>
+    </div>
+
+    <!-- Settings Panel -->
+    <div class="settings-panel" id="settingsPanel">
+        <h2>Settings</h2>
+
+        <div class="setting">
+            <label>Background Color</label>
+            <input type="color" class="color-picker"
+                value="#25282e"
+                onchange="setColor('--bg-color', this.value)">
+        </div>
+
+        <div class="setting">
+            <label>Top Bar Color</label>
+            <input type="color" class="color-picker"
+                value="#ffb36b"
+                onchange="setColor('--topbar-color', this.value)">
+        </div>
+
+        <div class="setting">
+            <label>Button Color</label>
+            <input type="color" class="color-picker"
+                value="#2f80ed"
+                onchange="setColor('--button-color', this.value)">
+        </div>
+
+        <div class="setting">
+            <label>Panel Color</label>
+            <input type="color" class="color-picker"
+                value="#1c1f24"
+                onchange="setColor('--panel-color', this.value)">
+        </div>
+    </div>
+
+    <!-- Settings Button -->
+    <button class="settings-btn" onclick="toggleSettings()">
+        <img src="settingswheel.png" alt="Settings">
+    </button>
+
+    <script src="script.js"></script>
+</body>
+</html>
