@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess The Flag</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="topbar">
+        <img src="../title.png" alt="Geo Quiz">
+    </div>
+
+    <div class="quiz-container">
+
+        <h1>Guess The Flag</h1>
+
+        <img id="flag-image" src="" alt="Flag">
+
+        <div class="answers">
+            <button class="answer-btn"></button>
+            <button class="answer-btn"></button>
+            <button class="answer-btn"></button>
+            <button class="answer-btn"></button>
+            <button class="answer-btn"></button>
+        </div>
+
+    </div>
+
+    <button class="settings-btn" onclick="toggleSettings()">
+        <img src="../settingswheel.png" alt="Settings">
+    </button>
+
+    <div class="settings-panel" id="settingsPanel">
+        <h2>Settings</h2>
+
+        <div class="setting">
+            <label>Background Color</label>
+            <input type="color" onchange="setColor('--bg-color', this.value)">
+        </div>
+
+        <div class="setting">
+            <label>Accent Color</label>
+            <input type="color" onchange="setColor('--accent-color', this.value)">
+        </div>
+
+        <div class="setting">
+            <label>Panel Color</label>
+            <input type="color" onchange="setColor('--panel-color', this.value)">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
