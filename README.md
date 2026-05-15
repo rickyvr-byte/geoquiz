@@ -1,2 +1,2 @@
-# geoquiz
-School project
+# Geoquiz
+- School project
