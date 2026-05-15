@@ -1,62 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Geo Quiz</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <!-- Topbar -->
     <div class="topbar">
         <img src="title.png" alt="Geo Quiz">
     </div>
 
-    <!-- Main -->
     <div class="main">
-        <button>Guess the Flag</button>
-        <button>Guess the Landmark</button>
+
+        <div class="menu-card">
+            <h1>Choose a Gamemode</h1>
+
+            <a href="GTF/index.html">
+                <button>Guess the Flag</button>
+            </a>
+
+            <button>Guess the Landmark</button>
+        </div>
+
+        <div class="style-panel">
+            <h2>Styles</h2>
+
+            <div class="styles-grid">
+                <button onclick="setTheme('default')">Default</button>
+                <button onclick="setTheme('sunset')">Sunset</button>
+                <button onclick="setTheme('ocean')">Ocean</button>
+                <button onclick="setTheme('midnight')">Midnight</button>
+                <button onclick="setTheme('forest')">Forest</button>
+                <button onclick="setTheme('purple')">Purple</button>
+                <button onclick="setTheme('lava')">Lava</button>
+                <button onclick="setTheme('ice')">Ice</button>
+                <button onclick="setTheme('pink')">Pink</button>
+                <button onclick="setTheme('gold')">Gold</button>
+                <button onclick="setTheme('retro')">Retro</button>
+                <button onclick="setTheme('neon')">Neon</button>
+                <button onclick="setTheme('matrix')">Matrix</button>
+                <button onclick="setTheme('space')">Space</button>
+                <button onclick="setTheme('sky')">Sky</button>
+                <button onclick="setTheme('mint')">Mint</button>
+                <button onclick="setTheme('rose')">Rose</button>
+                <button onclick="setTheme('amber')">Amber</button>
+                <button onclick="setTheme('cyber')">Cyber</button>
+                <button onclick="setTheme('mono')">Mono</button>
+            </div>
+        </div>
+
     </div>
 
-    <!-- Settings Panel -->
+    <button class="settings-btn" onclick="toggleSettings()">
+        <img src="settingswheel.png" alt="Settings">
+    </button>
+
     <div class="settings-panel" id="settingsPanel">
         <h2>Settings</h2>
 
         <div class="setting">
             <label>Background Color</label>
-            <input type="color" class="color-picker"
-                value="#25282e"
-                onchange="setColor('--bg-color', this.value)">
+            <input type="color" onchange="setColor('--bg-color', this.value)">
         </div>
 
         <div class="setting">
-            <label>Top Bar Color</label>
-            <input type="color" class="color-picker"
-                value="#ffb36b"
-                onchange="setColor('--topbar-color', this.value)">
-        </div>
-
-        <div class="setting">
-            <label>Button Color</label>
-            <input type="color" class="color-picker"
-                value="#2f80ed"
-                onchange="setColor('--button-color', this.value)">
+            <label>Accent Color</label>
+            <input type="color" onchange="setColor('--accent-color', this.value)">
         </div>
 
         <div class="setting">
             <label>Panel Color</label>
-            <input type="color" class="color-picker"
-                value="#1c1f24"
-                onchange="setColor('--panel-color', this.value)">
+            <input type="color" onchange="setColor('--panel-color', this.value)">
         </div>
     </div>
-
-    <!-- Settings Button -->
-    <button class="settings-btn" onclick="toggleSettings()">
-        <img src="settingswheel.png" alt="Settings">
-    </button>
 
     <script src="script.js"></script>
 </body>
