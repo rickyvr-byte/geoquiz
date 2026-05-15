@@ -1,0 +1,782 @@
+[
+    {
+        "country": "Flag of Afghanistan",
+        "image": "flags/flag_of_afghanistan.png"
+    },
+    {
+        "country": "Flag of Albania",
+        "image": "flags/flag_of_albania.png"
+    },
+    {
+        "country": "Flag of Algeria",
+        "image": "flags/flag_of_algeria.png"
+    },
+    {
+        "country": "Flag of Andorra",
+        "image": "flags/flag_of_andorra.png"
+    },
+    {
+        "country": "Flag of Angola",
+        "image": "flags/flag_of_angola.png"
+    },
+    {
+        "country": "Flag of Antigua and Barbuda",
+        "image": "flags/flag_of_antigua_and_barbuda.png"
+    },
+    {
+        "country": "Flag of Argentina",
+        "image": "flags/flag_of_argentina.png"
+    },
+    {
+        "country": "Flag of Armenia",
+        "image": "flags/flag_of_armenia.png"
+    },
+    {
+        "country": "Flag of Australia",
+        "image": "flags/flag_of_australia.png"
+    },
+    {
+        "country": "Flag of Austria",
+        "image": "flags/flag_of_austria.png"
+    },
+    {
+        "country": "Flag of Azerbaijan",
+        "image": "flags/flag_of_azerbaijan.png"
+    },
+    {
+        "country": "Flag of Bahamas",
+        "image": "flags/flag_of_bahamas.png"
+    },
+    {
+        "country": "Flag of Bahrain",
+        "image": "flags/flag_of_bahrain.png"
+    },
+    {
+        "country": "Flag of Bangladesh",
+        "image": "flags/flag_of_bangladesh.png"
+    },
+    {
+        "country": "Flag of Barbados",
+        "image": "flags/flag_of_barbados.png"
+    },
+    {
+        "country": "Flag of Belarus",
+        "image": "flags/flag_of_belarus.png"
+    },
+    {
+        "country": "Flag of Belgium",
+        "image": "flags/flag_of_belgium.png"
+    },
+    {
+        "country": "Flag of Belize",
+        "image": "flags/flag_of_belize.png"
+    },
+    {
+        "country": "Flag of Benin",
+        "image": "flags/flag_of_benin.png"
+    },
+    {
+        "country": "Flag of Bhutan",
+        "image": "flags/flag_of_bhutan.png"
+    },
+    {
+        "country": "Flag of Bolivia",
+        "image": "flags/flag_of_bolivia.png"
+    },
+    {
+        "country": "Flag of Bosnia and Herzegovina",
+        "image": "flags/flag_of_bosnia_and_herzegovina.png"
+    },
+    {
+        "country": "Flag of Botswana",
+        "image": "flags/flag_of_botswana.png"
+    },
+    {
+        "country": "Flag of Brazil",
+        "image": "flags/flag_of_brazil.png"
+    },
+    {
+        "country": "Flag of Brunei",
+        "image": "flags/flag_of_brunei.png"
+    },
+    {
+        "country": "Flag of Bulgaria",
+        "image": "flags/flag_of_bulgaria.png"
+    },
+    {
+        "country": "Flag of Burkina Faso",
+        "image": "flags/flag_of_burkina_faso.png"
+    },
+    {
+        "country": "Flag of Burundi",
+        "image": "flags/flag_of_burundi.png"
+    },
+    {
+        "country": "Flag of Cabo Verde",
+        "image": "flags/flag_of_cabo_verde.png"
+    },
+    {
+        "country": "Flag of Cambodia",
+        "image": "flags/flag_of_cambodia.png"
+    },
+    {
+        "country": "Flag of Cameroon",
+        "image": "flags/flag_of_cameroon.png"
+    },
+    {
+        "country": "Flag of Canada",
+        "image": "flags/flag_of_canada.png"
+    },
+    {
+        "country": "Flag of Central African Republic",
+        "image": "flags/flag_of_central_african_republic.png"
+    },
+    {
+        "country": "Flag of Chad",
+        "image": "flags/flag_of_chad.png"
+    },
+    {
+        "country": "Flag of Chile",
+        "image": "flags/flag_of_chile.png"
+    },
+    {
+        "country": "Flag of China",
+        "image": "flags/flag_of_china.png"
+    },
+    {
+        "country": "Flag of Colombia",
+        "image": "flags/flag_of_colombia.png"
+    },
+    {
+        "country": "Flag of Comoros",
+        "image": "flags/flag_of_comoros.png"
+    },
+    {
+        "country": "Flag of Congo",
+        "image": "flags/flag_of_congo.png"
+    },
+    {
+        "country": "Flag of Costa Rica",
+        "image": "flags/flag_of_costa_rica.png"
+    },
+    {
+        "country": "Flag of CÃ´te d'Ivoire",
+        "image": "flags/flag_of_cã´te_divoire.png"
+    },
+    {
+        "country": "Flag of Croatia",
+        "image": "flags/flag_of_croatia.png"
+    },
+    {
+        "country": "Flag of Cuba",
+        "image": "flags/flag_of_cuba.png"
+    },
+    {
+        "country": "Flag of Cyprus",
+        "image": "flags/flag_of_cyprus.png"
+    },
+    {
+        "country": "Flag of Czech Republic (Czechia)",
+        "image": "flags/flag_of_czech_republic_(czechia).png"
+    },
+    {
+        "country": "Flag of Denmark",
+        "image": "flags/flag_of_denmark.png"
+    },
+    {
+        "country": "Flag of Djibouti",
+        "image": "flags/flag_of_djibouti.png"
+    },
+    {
+        "country": "Flag of Dominica",
+        "image": "flags/flag_of_dominica.png"
+    },
+    {
+        "country": "Flag of Dominican Republic",
+        "image": "flags/flag_of_dominican_republic.png"
+    },
+    {
+        "country": "Flag of North Korea",
+        "image": "flags/flag_of_north_korea.png"
+    },
+    {
+        "country": "Flag of DR Congo",
+        "image": "flags/flag_of_dr_congo.png"
+    },
+    {
+        "country": "Flag of Ecuador",
+        "image": "flags/flag_of_ecuador.png"
+    },
+    {
+        "country": "Flag of Egypt",
+        "image": "flags/flag_of_egypt.png"
+    },
+    {
+        "country": "Flag of El Salvador",
+        "image": "flags/flag_of_el_salvador.png"
+    },
+    {
+        "country": "Flag of Equatorial Guinea",
+        "image": "flags/flag_of_equatorial_guinea.png"
+    },
+    {
+        "country": "Flag of Eritrea",
+        "image": "flags/flag_of_eritrea.png"
+    },
+    {
+        "country": "Flag of Estonia",
+        "image": "flags/flag_of_estonia.png"
+    },
+    {
+        "country": "Flag of Eswatini",
+        "image": "flags/flag_of_eswatini.png"
+    },
+    {
+        "country": "Flag of Ethiopia",
+        "image": "flags/flag_of_ethiopia.png"
+    },
+    {
+        "country": "Flag of Fiji",
+        "image": "flags/flag_of_fiji.png"
+    },
+    {
+        "country": "Flag of Finland",
+        "image": "flags/flag_of_finland.png"
+    },
+    {
+        "country": "Flag of France",
+        "image": "flags/flag_of_france.png"
+    },
+    {
+        "country": "Flag of Gabon",
+        "image": "flags/flag_of_gabon.png"
+    },
+    {
+        "country": "Flag of Gambia",
+        "image": "flags/flag_of_gambia.png"
+    },
+    {
+        "country": "Flag of Georgia",
+        "image": "flags/flag_of_georgia.png"
+    },
+    {
+        "country": "Flag of Germany",
+        "image": "flags/flag_of_germany.png"
+    },
+    {
+        "country": "Flag of Ghana",
+        "image": "flags/flag_of_ghana.png"
+    },
+    {
+        "country": "Flag of Greece",
+        "image": "flags/flag_of_greece.png"
+    },
+    {
+        "country": "Flag of Grenada",
+        "image": "flags/flag_of_grenada.png"
+    },
+    {
+        "country": "Flag of Guatemala",
+        "image": "flags/flag_of_guatemala.png"
+    },
+    {
+        "country": "Flag of Guinea",
+        "image": "flags/flag_of_guinea.png"
+    },
+    {
+        "country": "Flag of Guinea-Bissau",
+        "image": "flags/flag_of_guinea-bissau.png"
+    },
+    {
+        "country": "Flag of Guyana",
+        "image": "flags/flag_of_guyana.png"
+    },
+    {
+        "country": "Flag of Haiti",
+        "image": "flags/flag_of_haiti.png"
+    },
+    {
+        "country": "Flag of Holy See",
+        "image": "flags/flag_of_holy_see.png"
+    },
+    {
+        "country": "Flag of Honduras",
+        "image": "flags/flag_of_honduras.png"
+    },
+    {
+        "country": "Flag of Hungary",
+        "image": "flags/flag_of_hungary.png"
+    },
+    {
+        "country": "Flag of Iceland",
+        "image": "flags/flag_of_iceland.png"
+    },
+    {
+        "country": "Flag of India",
+        "image": "flags/flag_of_india.png"
+    },
+    {
+        "country": "Flag of Indonesia",
+        "image": "flags/flag_of_indonesia.png"
+    },
+    {
+        "country": "Flag of Iran",
+        "image": "flags/flag_of_iran.png"
+    },
+    {
+        "country": "Flag of Iraq",
+        "image": "flags/flag_of_iraq.png"
+    },
+    {
+        "country": "Flag of Ireland",
+        "image": "flags/flag_of_ireland.png"
+    },
+    {
+        "country": "Flag of Israel",
+        "image": "flags/flag_of_israel.png"
+    },
+    {
+        "country": "Flag of Italy",
+        "image": "flags/flag_of_italy.png"
+    },
+    {
+        "country": "Flag of Jamaica",
+        "image": "flags/flag_of_jamaica.png"
+    },
+    {
+        "country": "Flag of Japan",
+        "image": "flags/flag_of_japan.png"
+    },
+    {
+        "country": "Flag of Jordan",
+        "image": "flags/flag_of_jordan.png"
+    },
+    {
+        "country": "Flag of Kazakhstan",
+        "image": "flags/flag_of_kazakhstan.png"
+    },
+    {
+        "country": "Flag of Kenya",
+        "image": "flags/flag_of_kenya.png"
+    },
+    {
+        "country": "Flag of Kiribati",
+        "image": "flags/flag_of_kiribati.png"
+    },
+    {
+        "country": "Flag of Kuwait",
+        "image": "flags/flag_of_kuwait.png"
+    },
+    {
+        "country": "Flag of Kyrgyzstan",
+        "image": "flags/flag_of_kyrgyzstan.png"
+    },
+    {
+        "country": "Flag of Laos",
+        "image": "flags/flag_of_laos.png"
+    },
+    {
+        "country": "Flag of Latvia",
+        "image": "flags/flag_of_latvia.png"
+    },
+    {
+        "country": "Flag of Lebanon",
+        "image": "flags/flag_of_lebanon.png"
+    },
+    {
+        "country": "Flag of Lesotho",
+        "image": "flags/flag_of_lesotho.png"
+    },
+    {
+        "country": "Flag of Liberia",
+        "image": "flags/flag_of_liberia.png"
+    },
+    {
+        "country": "Flag of Libya",
+        "image": "flags/flag_of_libya.png"
+    },
+    {
+        "country": "Flag of Liechtenstein",
+        "image": "flags/flag_of_liechtenstein.png"
+    },
+    {
+        "country": "Flag of Lithuania",
+        "image": "flags/flag_of_lithuania.png"
+    },
+    {
+        "country": "Flag of Luxembourg",
+        "image": "flags/flag_of_luxembourg.png"
+    },
+    {
+        "country": "Flag of Madagascar",
+        "image": "flags/flag_of_madagascar.png"
+    },
+    {
+        "country": "Flag of Malawi",
+        "image": "flags/flag_of_malawi.png"
+    },
+    {
+        "country": "Flag of Malaysia",
+        "image": "flags/flag_of_malaysia.png"
+    },
+    {
+        "country": "Flag of Maldives",
+        "image": "flags/flag_of_maldives.png"
+    },
+    {
+        "country": "Flag of Mali",
+        "image": "flags/flag_of_mali.png"
+    },
+    {
+        "country": "Flag of Malta",
+        "image": "flags/flag_of_malta.png"
+    },
+    {
+        "country": "Flag of Marshall Islands",
+        "image": "flags/flag_of_marshall_islands.png"
+    },
+    {
+        "country": "Flag of Mauritania",
+        "image": "flags/flag_of_mauritania.png"
+    },
+    {
+        "country": "Flag of Mauritius",
+        "image": "flags/flag_of_mauritius.png"
+    },
+    {
+        "country": "Flag of Mexico",
+        "image": "flags/flag_of_mexico.png"
+    },
+    {
+        "country": "Flag of Micronesia",
+        "image": "flags/flag_of_micronesia.png"
+    },
+    {
+        "country": "Flag of Moldova",
+        "image": "flags/flag_of_moldova.png"
+    },
+    {
+        "country": "Flag of Monaco",
+        "image": "flags/flag_of_monaco.png"
+    },
+    {
+        "country": "Flag of Mongolia",
+        "image": "flags/flag_of_mongolia.png"
+    },
+    {
+        "country": "Flag of Montenegro",
+        "image": "flags/flag_of_montenegro.png"
+    },
+    {
+        "country": "Flag of Morocco",
+        "image": "flags/flag_of_morocco.png"
+    },
+    {
+        "country": "Flag of Mozambique",
+        "image": "flags/flag_of_mozambique.png"
+    },
+    {
+        "country": "Flag of Myanmar",
+        "image": "flags/flag_of_myanmar.png"
+    },
+    {
+        "country": "Flag of Namibia",
+        "image": "flags/flag_of_namibia.png"
+    },
+    {
+        "country": "Flag of Nauru",
+        "image": "flags/flag_of_nauru.png"
+    },
+    {
+        "country": "Flag of Nepal",
+        "image": "flags/flag_of_nepal.png"
+    },
+    {
+        "country": "Flag of Netherlands",
+        "image": "flags/flag_of_netherlands.png"
+    },
+    {
+        "country": "Flag of New Zealand",
+        "image": "flags/flag_of_new_zealand.png"
+    },
+    {
+        "country": "Flag of Nicaragua",
+        "image": "flags/flag_of_nicaragua.png"
+    },
+    {
+        "country": "Flag of Niger",
+        "image": "flags/flag_of_niger.png"
+    },
+    {
+        "country": "Flag of Nigeria",
+        "image": "flags/flag_of_nigeria.png"
+    },
+    {
+        "country": "Flag of North Macedonia",
+        "image": "flags/flag_of_north_macedonia.png"
+    },
+    {
+        "country": "Flag of Norway",
+        "image": "flags/flag_of_norway.png"
+    },
+    {
+        "country": "Flag of Oman",
+        "image": "flags/flag_of_oman.png"
+    },
+    {
+        "country": "Flag of Pakistan",
+        "image": "flags/flag_of_pakistan.png"
+    },
+    {
+        "country": "Flag of Palau",
+        "image": "flags/flag_of_palau.png"
+    },
+    {
+        "country": "Flag of Panama",
+        "image": "flags/flag_of_panama.png"
+    },
+    {
+        "country": "Flag of Papua New Guinea",
+        "image": "flags/flag_of_papua_new_guinea.png"
+    },
+    {
+        "country": "Flag of Paraguay",
+        "image": "flags/flag_of_paraguay.png"
+    },
+    {
+        "country": "Flag of Peru",
+        "image": "flags/flag_of_peru.png"
+    },
+    {
+        "country": "Flag of Philippines",
+        "image": "flags/flag_of_philippines.png"
+    },
+    {
+        "country": "Flag of Poland",
+        "image": "flags/flag_of_poland.png"
+    },
+    {
+        "country": "Flag of Portugal",
+        "image": "flags/flag_of_portugal.png"
+    },
+    {
+        "country": "Flag of Qatar",
+        "image": "flags/flag_of_qatar.png"
+    },
+    {
+        "country": "Flag of Romania",
+        "image": "flags/flag_of_romania.png"
+    },
+    {
+        "country": "Flag of Russia",
+        "image": "flags/flag_of_russia.png"
+    },
+    {
+        "country": "Flag of Rwanda",
+        "image": "flags/flag_of_rwanda.png"
+    },
+    {
+        "country": "Flag of Saint Kitts & Nevis",
+        "image": "flags/flag_of_saint_kitts_&_nevis.png"
+    },
+    {
+        "country": "Flag of Saint Lucia",
+        "image": "flags/flag_of_saint_lucia.png"
+    },
+    {
+        "country": "Flag of Samoa",
+        "image": "flags/flag_of_samoa.png"
+    },
+    {
+        "country": "Flag of San Marino",
+        "image": "flags/flag_of_san_marino.png"
+    },
+    {
+        "country": "Flag of Sao Tome & Principe",
+        "image": "flags/flag_of_sao_tome_&_principe.png"
+    },
+    {
+        "country": "Flag of Saudi Arabia",
+        "image": "flags/flag_of_saudi_arabia.png"
+    },
+    {
+        "country": "Flag of Senegal",
+        "image": "flags/flag_of_senegal.png"
+    },
+    {
+        "country": "Flag of Serbia",
+        "image": "flags/flag_of_serbia.png"
+    },
+    {
+        "country": "Flag of Seychelles",
+        "image": "flags/flag_of_seychelles.png"
+    },
+    {
+        "country": "Flag of Sierra Leone",
+        "image": "flags/flag_of_sierra_leone.png"
+    },
+    {
+        "country": "Flag of Singapore",
+        "image": "flags/flag_of_singapore.png"
+    },
+    {
+        "country": "Flag of Slovakia",
+        "image": "flags/flag_of_slovakia.png"
+    },
+    {
+        "country": "Flag of Slovenia",
+        "image": "flags/flag_of_slovenia.png"
+    },
+    {
+        "country": "Flag of Solomon Islands",
+        "image": "flags/flag_of_solomon_islands.png"
+    },
+    {
+        "country": "Flag of Somalia",
+        "image": "flags/flag_of_somalia.png"
+    },
+    {
+        "country": "Flag of South Africa",
+        "image": "flags/flag_of_south_africa.png"
+    },
+    {
+        "country": "Flag of South Korea",
+        "image": "flags/flag_of_south_korea.png"
+    },
+    {
+        "country": "Flag of South Sudan",
+        "image": "flags/flag_of_south_sudan.png"
+    },
+    {
+        "country": "Flag of Spain",
+        "image": "flags/flag_of_spain.png"
+    },
+    {
+        "country": "Flag of Sri Lanka",
+        "image": "flags/flag_of_sri_lanka.png"
+    },
+    {
+        "country": "Flag of St. Vincent & Grenadines",
+        "image": "flags/flag_of_st._vincent_&_grenadines.png"
+    },
+    {
+        "country": "Flag of State of Palestine",
+        "image": "flags/flag_of_state_of_palestine.png"
+    },
+    {
+        "country": "Flag of Sudan",
+        "image": "flags/flag_of_sudan.png"
+    },
+    {
+        "country": "Flag of Suriname",
+        "image": "flags/flag_of_suriname.png"
+    },
+    {
+        "country": "Flag of Sweden",
+        "image": "flags/flag_of_sweden.png"
+    },
+    {
+        "country": "Flag of Switzerland",
+        "image": "flags/flag_of_switzerland.png"
+    },
+    {
+        "country": "Flag of Syria",
+        "image": "flags/flag_of_syria.png"
+    },
+    {
+        "country": "Flag of Tajikistan",
+        "image": "flags/flag_of_tajikistan.png"
+    },
+    {
+        "country": "Flag of Tanzania",
+        "image": "flags/flag_of_tanzania.png"
+    },
+    {
+        "country": "Flag of Thailand",
+        "image": "flags/flag_of_thailand.png"
+    },
+    {
+        "country": "Flag of Timor-Leste",
+        "image": "flags/flag_of_timor-leste.png"
+    },
+    {
+        "country": "Flag of Togo",
+        "image": "flags/flag_of_togo.png"
+    },
+    {
+        "country": "Flag of Tonga",
+        "image": "flags/flag_of_tonga.png"
+    },
+    {
+        "country": "Flag of Trinidad and Tobago",
+        "image": "flags/flag_of_trinidad_and_tobago.png"
+    },
+    {
+        "country": "Flag of Tunisia",
+        "image": "flags/flag_of_tunisia.png"
+    },
+    {
+        "country": "Flag of Turkey",
+        "image": "flags/flag_of_turkey.png"
+    },
+    {
+        "country": "Flag of Turkmenistan",
+        "image": "flags/flag_of_turkmenistan.png"
+    },
+    {
+        "country": "Flag of Tuvalu",
+        "image": "flags/flag_of_tuvalu.png"
+    },
+    {
+        "country": "Flag of United Arab Emirates",
+        "image": "flags/flag_of_united_arab_emirates.png"
+    },
+    {
+        "country": "Flag of United Kingdom",
+        "image": "flags/flag_of_united_kingdom.png"
+    },
+    {
+        "country": "Flag of United States",
+        "image": "flags/flag_of_united_states.png"
+    },
+    {
+        "country": "Flag of Uganda",
+        "image": "flags/flag_of_uganda.png"
+    },
+    {
+        "country": "Flag of Ukraine",
+        "image": "flags/flag_of_ukraine.png"
+    },
+    {
+        "country": "Flag of Uruguay",
+        "image": "flags/flag_of_uruguay.png"
+    },
+    {
+        "country": "Flag of Uzbekistan",
+        "image": "flags/flag_of_uzbekistan.png"
+    },
+    {
+        "country": "Flag of Vanuatu",
+        "image": "flags/flag_of_vanuatu.png"
+    },
+    {
+        "country": "Flag of Venezuela",
+        "image": "flags/flag_of_venezuela.png"
+    },
+    {
+        "country": "Flag of Vietnam",
+        "image": "flags/flag_of_vietnam.png"
+    },
+    {
+        "country": "Flag of Yemen",
+        "image": "flags/flag_of_yemen.png"
+    },
+    {
+        "country": "Flag of Zambia",
+        "image": "flags/flag_of_zambia.png"
+    },
+    {
+        "country": "Flag of Zimbabwe",
+        "image": "flags/flag_of_zimbabwe.png"
+    }
+]
