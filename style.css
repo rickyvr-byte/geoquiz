@@ -1,51 +1,104 @@
 @font-face {
-
-.styles-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
+    font-family: "Lemmilk";
+    src: url("../Lemmilk.ttf") format("truetype");
 }
 
-.styles-grid button {
-    height: 50px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+:root {
+    --bg-color: #1f242b;
+    --accent-color: #ffb86c;
+    --panel-color: #2a3038;
+    --button-color: #39414b;
+}
+
+body {
+    background: var(--bg-color);
+    color: white;
+    font-family: "Lemmilk", sans-serif;
+    min-height: 100vh;
+}
+
+.topbar {
+    width: 100%;
+    padding: 16px 24px;
+    background: var(--panel-color);
+    display: flex;
+    align-items: center;
+}
+
+.topbar img {
+    height: 40px;
+}
+
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+    gap: 24px;
+}
+
+.quiz-container h1 {
+    font-size: 28px;
+    color: var(--accent-color);
+}
+
+#flag-image {
+    width: 320px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+
+.answers {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 480px;
+}
+
+.answer-btn {
+    width: 100%;
+    padding: 14px;
     border: none;
     border-radius: 10px;
-
-    background: #39414b;
+    background: var(--button-color);
     color: white;
-
-    font-family: "Lemmilk";
-    font-size: 16px;
-
+    font-family: "Lemmilk", sans-serif;
+    font-size: 18px;
     cursor: pointer;
-
     transition: 0.2s;
+}
+
+.answer-btn:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.05);
 }
 
 .settings-btn {
     position: fixed;
     right: 20px;
     bottom: 20px;
-
     width: 60px;
     height: 60px;
-
     background: transparent;
     border: none;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     cursor: pointer;
-
     z-index: 1000;
 }
 
 .settings-btn img {
     width: 34px;
-
     transition: transform 0.8s cubic-bezier(0.2, 1, 0.2, 1);
 }
 
@@ -57,17 +110,17 @@
     position: fixed;
     top: 0;
     right: -320px;
-
     width: 300px;
     height: 100%;
-
     padding: 20px;
-
     background: var(--panel-color);
-
     transition: 0.3s ease;
-
     z-index: 999;
+}
+
+.settings-panel h2 {
+    color: var(--accent-color);
+    margin-bottom: 8px;
 }
 
 .settings-panel.open {
@@ -78,11 +131,13 @@
     margin-top: 20px;
 }
 
+.setting label {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
 .setting input {
     width: 100%;
     height: 45px;
-}
-
-a {
-    text-decoration: none;
 }
