@@ -1,3 +1,7 @@
+let flags = [];
+let currentAnswer = "";
+let locked = false;
+
 const panel = document.getElementById("settingsPanel");
 
 function toggleSettings() {
@@ -16,7 +20,6 @@ window.onload = () => {
             document.documentElement.style.setProperty(variable, saved);
         }
     });
-
     loadFlags();
 };
 
@@ -30,22 +33,15 @@ function shuffle(array) {
     return array.sort(() => Math.random() - 0.5);
 }
 
-let flags = [];
-let currentAnswer = "";
-let locked = false;
-
 function nextQuestion() {
-
     locked = false;
 
     const randomFlag = flags[Math.floor(Math.random() * flags.length)];
-
     currentAnswer = randomFlag.country;
 
     document.getElementById("flag-image").src = randomFlag.image;
 
     let options = [currentAnswer];
-
     while (options.length < 5) {
         const randomCountry = flags[Math.floor(Math.random() * flags.length)].country;
         if (!options.includes(randomCountry)) {
@@ -56,29 +52,30 @@ function nextQuestion() {
     options = shuffle(options);
 
     const buttons = document.querySelectorAll(".answer-btn");
-
     buttons.forEach((button, index) => {
-
-        button.innerText = options[index].replace("Flag of ", "");
-
-        button.style.background = "var(--button-color)";
-        button.style.filter = "brightness(1)";
+        const label = options[index].replace("Flag of ", "");
+        button.innerText = label;
+        button.style.background = "";
+        button.style.borderColor = "";
+        button.style.filter = "";
 
         button.onclick = () => {
-
             if (locked) return;
-
             locked = true;
 
             buttons.forEach(btn => {
-                if (btn.innerText === currentAnswer.replace("Flag of ", "")) {
-                    btn.style.background = "#42d67a";
+                const btnLabel = btn.innerText;
+                const correctLabel = currentAnswer.replace("Flag of ", "");
+                if (btnLabel === correctLabel) {
+                    btn.style.background = "rgba(66,214,122,0.25)";
+                    btn.style.borderColor = "#42d67a";
                 } else {
-                    btn.style.background = "#d94b4b";
+                    btn.style.background = "rgba(217,75,75,0.2)";
+                    btn.style.borderColor = "#d94b4b";
                 }
             });
 
-            button.style.filter = "brightness(1.2)";
+            button.style.filter = "brightness(1.15)";
 
             setTimeout(() => {
                 nextQuestion();
